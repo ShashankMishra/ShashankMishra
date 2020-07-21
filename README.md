@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 Converting caffine to code
 
-    Converting caffine to code 
+     
 
 <!--
 **ShashankMishra/ShashankMishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
